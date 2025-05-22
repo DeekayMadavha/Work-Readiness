@@ -1,0 +1,13 @@
+Situation
+During my second-year Application Development course, I was assigned to a group project to develop a basic online voting system using Java and Derby Database. The project required both backend logic and frontend interfaces using Java Swing.
+
+Task
+My responsibility was to design the client-side GUI, implement the database connection logic, and ensure seamless interaction between the voting interface and the backend server. Additionally, I had to present the system and explain my development approach to the class.
+
+Action
+I started by analyzing the project requirements and identifying areas where I could apply my skills in Java GUI design and database management — areas I’m particularly interested in. I researched various Java Swing layouts, experimented with different color schemes, and ensured that the voting buttons were intuitive and responsive.
+
+On the technical side, I set up the Derby database, configured the JDBC connection, and implemented methods to retrieve and update vote counts. I frequently collaborated with my teammates, conducted code reviews, and provided assistance when they encountered database connection issues.
+
+Result
+The project was successfully completed on time, and my GUI design received positive feedback for its clean layout and visual appeal. The lecturer commended my efficient use of database operations and well-documented code. I also realized how much I enjoy blending creativity (in UI design) with problem-solving (in database interaction), which affirmed my interest in pursuing frontend development with a strong understanding of backend processes.

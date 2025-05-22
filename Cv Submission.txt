@@ -1,0 +1,16 @@
+Situation:
+As part of a job application process for a junior software developer position, I was required to submit an up-to-date CV that accurately reflected my skills, academic background, and relevant projects.
+
+Task:
+The task was to create and submit a professional, well-structured CV tailored to the job description, ensuring it highlighted my technical abilities, academic achievements, and project experience relevant to software development.
+
+Action:
+I started by reviewing the job description carefully to identify key skills and qualifications the employer was seeking. I then revised my existing CV by reorganizing the layout, updating my educational qualifications, and adding recent projects such as a capstone WeatherApp project and a vehicle voting system developed in Java. I made sure to list specific programming languages, tools, and frameworks I’m proficient in, like Java, Spring Boot, and SQL. Additionally, I asked a mentor to review my CV for feedback before submission to ensure clarity and professionalism.
+
+Result:
+As a result, I successfully submitted a clean, tailored CV before the deadline. The positive feedback I received from my mentor boosted my confidence. This experience taught me the importance of customizing CVs for different job applications and seeking constructive feedback. I also became more aware of the value of presenting project experiences in a results-oriented way, using action verbs and quantifiable outcomes where possible.
+
+
+
+
+

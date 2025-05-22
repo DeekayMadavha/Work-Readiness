@@ -1,0 +1,12 @@
+Situation:
+As a final-year student approaching graduation, I felt uncertain about my career direction. While I had studied Application Development and Data Science, I wasn't sure which specific roles or industries best suited my skills, values, and interests. Our university’s career services offered a career counselling session, and I decided to attend one.
+
+Task:
+My task was to actively engage in the career counselling process, reflect on my personal and professional goals, and identify potential career paths that aligned with both my academic background and personal aspirations.
+
+Action:
+During the counselling session, I participated in a self-assessment exercise to evaluate my skills, interests, and work values. I worked with the counsellor to explore different industries and job roles within the tech sector, including software development, data analytics, and project management. I also received guidance on creating a tailored CV, preparing for interviews, and networking effectively. As part of the process, I was encouraged to research job descriptions and conduct informational interviews with professionals in fields I was interested in.
+
+Result:
+As a result of the career counselling session, I gained a clearer understanding of the career options available to me and identified data analytics as a role that matched both my skills and personal interests. I developed a career action plan outlining short-term and long-term goals, which included completing relevant online certifications and applying for internships in data-focused roles. Additionally, I felt more confident about my career path and better equipped to make informed decisions about my future.
+
